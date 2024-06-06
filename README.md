@@ -1,4 +1,4 @@
-# Platform Frenzy
+# Platform Frenzy 👾
 A platform game in which you jump from platform to jump from platform to platform and screen to screen to earn points.
 
 You play as sonic jumping from platform to another platform within a set screen, then you jump to the right of the screen and land in another screen with other platforms. You do this for an infinite amount of time, trying to get highest score you can!
@@ -9,7 +9,7 @@ You play as sonic jumping from platform to another platform within a set screen,
 - High Score Export (Saves high scores even after closing the game)
 - Simple yet Addictive Gameplay
 
-## Executing
+## Executing 
 To run the game, you will need at least Python 3.12.2 installed. You will also need the following libraries installed:
 
 #### customtkinter
