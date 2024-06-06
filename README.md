@@ -12,9 +12,9 @@ You play as sonic jumping from platform to another platform within a set screen,
 ## Executing 
 To run the game, you will need at least Python 3.12.2 installed. You will also need the following libraries installed:
 
-#### customtkinter: `pip install customtkinter`
-#### pygame" `pip install pygame`
-#### pickle: `pip install pickle`
+##### customtkinter: `pip install customtkinter`
+##### pygame: `pip install pygame`
+##### pickle: `pip install pickle`
 
 After installing the required libraries, fork the repo on github. Then clone the repo using the following command:
 `git clone Platform-Frenzy`
