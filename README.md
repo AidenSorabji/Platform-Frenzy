@@ -10,18 +10,25 @@ You play as sonic jumping from platform to another platform within a set screen,
 - Simple yet Addictive Gameplay
 
 ## Executing 
-To run the game, you will need at least Python 3.12.2 installed. You will also need the following libraries installed:
+#### 1. To run the game, you will need at least Python 3.12.2 installed. You will also need the following libraries installed:
 
-##### customtkinter: `pip install customtkinter`
-##### pygame: `pip install pygame`
-##### pickle: `pip install pickle`
+**customtkinter:** `pip install customtkinter`
 
-After installing the required libraries, fork the repo on github. Then clone the repo using the following command:
+**pygame:** `pip install pygame`
+
+**pickle:** `pip install pickle`
+<br> 
+</br>
+#### 2. Fork the repo on github. Then clone the repo using the following command:
+
 `git clone Platform-Frenzy`
+<br> 
+</br>
+#### 3. Navigate to the repo, and then open and run the following file in debugger:
 
-Navigate to the repo, and then open and run the following file in debugger:
 `main.py`
-
+<br> 
+</br>
 You should be in a pre-game config window so you can tune what you want and what you don't want. To run with or without a controller, press the "Play!" button. you should be running the game
 
 ## Controls
@@ -37,8 +44,6 @@ The controls are specified in the pre-game config menu.
 ## Copyright
 Platform Frenzy is a fan-made game and is not affiliated with Sega or any other company. 
 All rights reserved.
-
-MIT License
 
 Copyright © 2024 Aiden Sorabji
 
