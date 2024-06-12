@@ -3,9 +3,11 @@ A platform game in which you jump from platform to jump from platform to platfor
 
 You play as sonic jumping from platform to another platform within a set screen, then you jump to the right of the screen and land in another screen with other platforms. You do this for an infinite amount of time, trying to get highest score you can!
 
+![alt text](https://github.com/AidenSorabji/Platform-Frenzy/blob/main/platform-frenzy-thumbnail.png)
+
 ## Features
 - infinitely Generating Platforms
-- Full PlayStation © Controller Support
+- Full PlayStation© Controller Support
 - High Score Export (Saves high scores even after closing the game)
 - Simple yet Addictive Gameplay
 
